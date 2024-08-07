@@ -49,7 +49,7 @@ body {
 }
 
 .word {
-  font-size: 55px;
+  font-size: 0;
   font-weight: 600;
   text-align: center;
   margin-top: 90px;
@@ -70,4 +70,8 @@ main {
   bottom: 20px;
   left: 20px;
   font-size: 20px;
+}
+
+.word span {
+  font-size: 55px;
 }
